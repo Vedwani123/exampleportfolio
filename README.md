@@ -4,6 +4,7 @@
 ### Project 1
 -Descriptions
 -Links
+
 ###Project 2
 -Descriptions
 -Links
@@ -12,5 +13,7 @@
 -High School
 
 #Work History
+
 -Workplace 1
+
 -Workplace 2
